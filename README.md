@@ -1,5 +1,7 @@
 # Worm_Fly_Lifespan_YOLO
 
+Here we provide the code and examples for training and inference of our detection models for dead worms and flies. Worm images were acquired on a stereo zoom Nikon microscope (SMZ1270). Fly images on a Epson Perfection V600 flatbed scanners. 
+
 align_overlap.py: code to align and overlap 2 consecutive worm images\
 detect.py: YOLO detection code for worms and flies\
 training.py: YOLO training code for worms and flies
