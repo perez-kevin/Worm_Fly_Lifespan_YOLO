@@ -31,7 +31,7 @@ align_overlap.py: code to align and overlap 2 consecutive worm images\
 def align_image(src1, src2, warp_mode=cv2.MOTION_TRANSLATION):
 ```
 
-align_overlap_full.py: code to align and overlap a full worm lifespan
+align_overlap_full.py: code to align and overlap a full worm lifespan\
 Files should be labelled as ExpID_Timepoint: ex., ExpID_1, ExpID_4, ExpID_7...
 
 ## Inference
