@@ -37,7 +37,7 @@ Files should be labelled as ExpID_Timepoint: ex., ExpID_1, ExpID_4, ExpID_7...
 ## Inference
 
 detect.py: YOLO detection code for worms and flies\
-detect_full.py: YOLO detection code for full lifespan analysis
+detect_full.py: YOLO detection code for full lifespan analysis. Results are saved in ExpID_dead_counts.csv.
 
 Model weights hosted on Hugging Face\
 kprz/Worms_Fly_Lifespan_YOLO
