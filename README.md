@@ -24,7 +24,13 @@ training.py: YOLO training code for worms and flies
 Model weights hosted on Hugging Face\
 kprz/Worms_Fly_Lifespan_YOLO
 
-Training dataset not provided, available upon request kevin.perez@ior.usi.ch
+Training dataset not provided, available upon request.
+
+## Correspondence
+
+Kevin Perez
+Institute of Oncology Research (IOR), Bellinzona, Switzerland
+email: kevin.perez@ior.usi.ch
 
 ## Example results
 
