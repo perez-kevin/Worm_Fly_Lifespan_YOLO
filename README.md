@@ -28,8 +28,8 @@ Training dataset not provided, available upon request.
 
 ## Correspondence
 
-Kevin Perez
-Institute of Oncology Research (IOR), Bellinzona, Switzerland
+Kevin Perez\
+Institute of Oncology Research (IOR), Bellinzona, Switzerland\
 email: kevin.perez@ior.usi.ch
 
 ## Example results
